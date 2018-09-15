@@ -17,7 +17,7 @@
       <pubDate>Sat, 15 Sep 2018 12:01:18 +0000</pubDate>
       
       <guid>https://hackwimbledon.github.io/wombot/post/creatingasite/</guid>
-      <description>So as an experiment, we&amp;rsquo;ve created this blog. We&amp;rsquo;re using Hugo a static site generator and Github&amp;rsquo;s Pages to publish it. The instructions came from the Hugo site and seem to work ok, though git skills are to the fore if you go the gh-pages route.</description>
+      <description>So as an experiment, we&amp;rsquo;ve created this blog. We&amp;rsquo;re using Hugo as a static site generator and Github&amp;rsquo;s Pages to publish what Hugo produces. The instructions came from the Hugo site and seem to work ok, though git skills are to the fore if you go the gh-pages route.</description>
     </item>
     
   </channel>

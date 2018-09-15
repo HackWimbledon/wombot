@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hackwimbledon.github.io/wombot/post/makingarepo/</loc>
+    <lastmod>2018-09-07T10:20:32+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackwimbledon.github.io/wombot/post/pubplanning/</loc>
+    <lastmod>2018-09-01T10:20:32+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackwimbledon.github.io/wombot/post/</loc>
+    <lastmod>2018-08-15T10:18:24+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackwimbledon.github.io/wombot/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackwimbledon.github.io/wombot/tags/planning/</loc>
+    <lastmod>2018-09-07T10:20:32+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackwimbledon.github.io/wombot/tags/</loc>
+    <lastmod>2018-09-07T10:20:32+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hackwimbledon.github.io/wombot/</loc>
+    <lastmod>2018-09-07T10:20:32+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
